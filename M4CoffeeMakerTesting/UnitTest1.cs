@@ -141,9 +141,7 @@ namespace CoffeeMaker.Test
         }
 
         [Test]
-        public void GoodStart()
-        {
-            NormalStart();
+        public void GoodStart(){NormalStart();
             Assert.IsTrue(api.boilerOn);
             Assert.IsFalse(api.lightOn);
             Assert.IsFalse(api.plateOn);
@@ -245,7 +243,6 @@ namespace CoffeeMaker.Test
             api.boilerEmpty = true;
             Poll();
         }
-
 
         [Test]
         public void BoilerEmptiesWhilePotRemoved()

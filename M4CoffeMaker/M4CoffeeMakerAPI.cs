@@ -4,14 +4,24 @@ namespace M4CoffeeMaker
 {
     public class M4CoffeeMakerApi : CoffeeMakerAPI
     {
-
-        WarmerPlateStatus   warmerPlateStatus;
+        WarmerPlateStatus warmerPlateStatus;
         BoilerStatus boilerStatus;
         BoilerState boilerState;
         BrewButtonStatus brewButtonStatus;
         WarmerState warmerState;
         IndicatorState indicatorState;
         ReliefValveState reliefValveState;
+
+        public M4CoffeeMakerApi()
+        {
+            warmerPlateStatus = WarmerPlateStatus.WARMER_EMPTY;
+            boilerStatus = BoilerStatus.EMPTY;
+            boilerState = BoilerState.OFF;
+            brewButtonStatus = BrewButtonStatus.NOT_PUSHED;
+            warmerState = WarmerState.OFF;
+            indicatorState = IndicatorState.OFF;
+            reliefValveState = ReliefValveState.CLOSED;
+        }
 
         public WarmerPlateStatus GetWarmerPlateStatus()
         {
@@ -81,9 +91,6 @@ namespace M4CoffeeMaker
         {
             indicatorState = s;
         }
-        
-        
-        
         
         /*
         * This function opens and closes the pressure-relief
