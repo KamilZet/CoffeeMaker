@@ -1,0 +1,11 @@
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeeMakerTesting\bin\Debug\M4CoffeeMakerTesting.dll
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeeMakerTesting\bin\Debug\M4CoffeeMakerTesting.pdb
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeeMakerTesting\bin\Debug\AbstractCoffeMaker.dll
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeeMakerTesting\bin\Debug\M4CoffeMaker.exe
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeeMakerTesting\bin\Debug\nunit.framework.dll
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeeMakerTesting\bin\Debug\AbstractCoffeMaker.pdb
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeeMakerTesting\bin\Debug\M4CoffeMaker.pdb
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeeMakerTesting\bin\Debug\nunit.framework.xml
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeeMakerTesting\obj\Debug\M4CoffeeMakerTesting.csprojResolveAssemblyReference.cache
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeeMakerTesting\obj\Debug\M4CoffeeMakerTesting.dll
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeeMakerTesting\obj\Debug\M4CoffeeMakerTesting.pdb

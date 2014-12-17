@@ -1,0 +1,4 @@
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\AbstractCoffeMaker\bin\Debug\AbstractCoffeMaker.dll
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\AbstractCoffeMaker\bin\Debug\AbstractCoffeMaker.pdb
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\AbstractCoffeMaker\obj\Debug\AbstractCoffeMaker.dll
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\AbstractCoffeMaker\obj\Debug\AbstractCoffeMaker.pdb

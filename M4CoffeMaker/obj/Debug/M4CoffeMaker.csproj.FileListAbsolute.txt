@@ -1,0 +1,9 @@
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeMaker\obj\Debug\M4CoffeMaker.csprojResolveAssemblyReference.cache
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeMaker\bin\Debug\M4CoffeMaker.pdb
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeMaker\bin\Debug\AbstractCoffeMaker.dll
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeMaker\bin\Debug\AbstractCoffeMaker.pdb
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeMaker\obj\Debug\M4CoffeMaker.pdb
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeMaker\bin\Debug\M4CoffeMaker.exe
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeMaker\obj\Debug\M4CoffeMaker.exe
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeMaker\bin\Debug\nunit.framework.dll
+c:\users\kamil.zien\documents\visual studio 2013\Projects\AbstractCoffeMaker\M4CoffeMaker\bin\Debug\nunit.framework.xml
